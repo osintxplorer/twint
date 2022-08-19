@@ -51,12 +51,6 @@ cd twint
 pip3 install . -r requirements.txt
 ```
 
-**Pip:**
-
-```bash
-pip3 install twint
-```
-
 or
 
 ```bash
